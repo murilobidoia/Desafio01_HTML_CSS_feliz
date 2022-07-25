@@ -1,0 +1,46 @@
+
+article{
+    display: block;
+    background-color: #4C5B84;
+    text-align: center;
+    align-items: center;
+    margin: 107px 725px 507px 88px;
+    width: 627px;
+    height: 184px;
+    box-shadow: 10px 10px 0px #000000;
+}
+
+h1{
+    color: #62C370;
+    font-size: 40px;
+    font-family: "Press Start 2P";
+    font-weight: 400;
+    padding-top: 43px;
+}
+
+p{
+    display: block;
+    color: #fff;
+    font-size: 30px;
+    font-family: "Press Start 2P";
+    font-weight: 400;
+    padding-top: 25px;
+}
+
+.button_1{
+    display: inline-block;
+    background-color: #62C370;
+    font-size: 20px;
+    font-family: "Fira Code";
+    font-weight: 500;
+    padding: 18px 20px;
+    box-shadow: 5px 5px 0px #000000;
+    margin-right: 0px;
+    transition: 350ms linear;
+}
+
+.button_1:hover{
+    color: #62C370;
+    background-color: #fff;
+    transform: scale(1.05);
+}
